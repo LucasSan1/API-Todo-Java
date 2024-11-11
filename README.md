@@ -4,7 +4,7 @@ Este repositório contém uma API desenvolvida em Java usando o Spring Boot para
 
 ## Tecnologias Utilizadas
 
-- **Java 17
+- Java 17
 - **Spring Boot** (para criação da API)
 - **Spring Data JPA** (para interação com o banco de dados)
 - **MySQL** (para armazenamento dos dados)
